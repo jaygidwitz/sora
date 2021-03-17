@@ -8,4 +8,4 @@
 
 The program was superceded by [Atelier Eftimov](https://www.ateliereftimov.com) in 2015.
 
-<p>© representational-art.org. All Rights Reserved.</p>
+<p>© [representational-art.org](https://representational-art.org). All Rights Reserved.</p>
