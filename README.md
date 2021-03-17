@@ -1,4 +1,5 @@
-![Header for representational-art.org](https://jaygidwitz.github.io/sora/images/header.jpg)](https://representational-art.org/)
+[![Header](https://jaygidwitz.github.io/sora/images/header.jpg "Header")](https://representational-art.org/)
+
 ## LIFE WITHOUT ART IS UNIMAGINABLE. <br/> ART WITHOUT STUDY IS UNATTAINABLE.
 
 ![Front image representational-art.org](https://jaygidwitz.github.io/sora/images/front-image.jpg)](https://representational-art.org/)
