@@ -5,7 +5,6 @@
 
 <p>Established in 1992, The School of Representational Art (SORA) was Chicago's original drawing and painting Atelier. The school offered a program and environment in which a student could learn, practice and develop fine art skills in the great classical European tradition.</p>
 
-
-<p>The program was superceded by [Atelier Eftimov](https://www.ateliereftimov.com) in 2015.</p>
+The program was superceded by [Atelier Eftimov](https://www.ateliereftimov.com) in 2015.
 
 <p>© representational-art.org. All Rights Reserved.</p>
