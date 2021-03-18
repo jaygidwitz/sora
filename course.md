@@ -1,4 +1,4 @@
-## Course of Study
+# Course of Study
 SORA strives for excellence by demanding the best from its students. Through group and individualized instruction, personalized critiques, and a series of integrated individual projects, SORA students are thoroughly trained in all aspects of representational drawing and painting.
 
 General Overview and Expectations
